@@ -76,10 +76,16 @@ Pending probability increases with age — older cases are 85% likely still pend
 ---
 
 ## Pipeline Walkthrough
-
-### 1. Ingestion — ADF (`pl_ecourts_incremental_load`)
+#### 1. Ingestion — ADF 
+#### 2. Bronze Layer
+#### 3. Silver Layer
+#### 4. Gold Layer
+#### 5. Synapse Layer
+#### 6. Power BI Dashboard
 
 ![ADF Pipeline](docs/adfpipeline.png)
+--
+### 1. Ingestion — ADF 
 
 - **cases**: Incremental load using watermark table (`last_modified` timestamp). Only changed/new rows pulled per run.
 - **courts**: Full load every run — 50-row dimension table, overwrite is safe and intentional.
