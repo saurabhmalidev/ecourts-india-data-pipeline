@@ -117,7 +117,7 @@ Three pre-aggregated Delta tables fed into Power BI:
 
 ### 6. Power BI Dashboard
 
-Replicates the NJDG District Courts tab at `njdg.ecourts.gov.in/njdg_v3`.
+Replicates the NJDG District Courts tab at `https://njdg.ecourts.gov.in/njdg_v3/`.
 
 - **KPI Cards**: Civil Cases (182), Criminal Cases (568), Total Cases (750)
 - **Age Wise Pending Cases**: 100% stacked bar chart, Civil vs Criminal, sorted correctly via `age_bucket_sort` column
