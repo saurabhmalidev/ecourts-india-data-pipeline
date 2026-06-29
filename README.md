@@ -130,21 +130,31 @@ Replicates the NJDG District Courts tab at [NJDG](https://njdg.ecourts.gov.in/nj
 
 ---
 
-## Key Engineering Decisions
+## Key Date Engineering Decisions :
 
-**Watermark CDC over Debezium** — ADF-native, simpler operationally, covers inserts/updates/soft deletes without additional infrastructure.
+** Unity Catalog** 
+— 
 
-**Staging table + set-based SQL in Synapse** — Original approach used Python `.isin()` with large lists, generating `IN(...)` clauses Synapse rejects at scale. Replaced entirely with staging tables and set-based UPDATE/INSERT inside Synapse — orders of magnitude faster and scale-safe.
+**Watermark CDC over Debezium** — ADF-native, simpler operationally for project usecase, covers inserts/updates/soft deletes.
 
-**SCD Type 2 on dim_courts, MERGE on fact_cases** — Dimension changes (judge count, bench reassignment) need history. Facts don't version — they update in place. Applied the right pattern to the right table.
+**Staging table + set-based SQL in Synapse** 
+— Original approach used Python `.isin()` with large lists, generating `IN(...)` clauses Synapse rejects at scale. Replaced entirely with staging tables and set-based UPDATE/INSERT inside Synapse — orders of magnitude faster and scale-safe.
 
-**Single INSERT for SCD2** — Changed courts and new courts handled in one `NOT EXISTS` query rather than two separate operations. Cleaner and atomic.
+**SCD Type 2 on dim_courts, MERGE on fact_cases** 
+— Dimension changes (judge count, bench reassignment) need history. 
+— Facts don't version — they update in place(MERGE).
 
-**Transaction safety** — `run_sql()` helper wraps all DML in a single transaction with `rollback()` on failure. No partial state possible.
+**Single INSERT for SCD2** 
+— Changed courts and new courts handled in one `NOT EXISTS` query rather than two separate operations. Cleaner and atomic.
 
-**Gold layer registered in Databricks catalog** — Path-based Delta tables made discoverable to Power BI via `CREATE TABLE ... USING DELTA LOCATION` without requiring Unity Catalog migration.
+**Transaction safety** 
+— `run_sql()` helper wraps all DML in a single transaction with `rollback()` on failure. No partial state possible.
 
-**District Courts as reference implementation** — Real NJDG has 40+ pipeline variants. This project implements District Courts end-to-end as the reference pattern. High Court and Supreme Court follow identical logic with different case subtypes and aggregation keys.
+**Gold layer registered in Databricks catalog** 
+— Path-based Delta tables made discoverable to Power BI via `CREATE TABLE ... USING DELTA LOCATION` without requiring Unity Catalog migration.
+
+**District Courts as reference implementation** 
+— Real NJDG has 40+ pipeline variants. This project implements District Courts end-to-end as the reference pattern. High Court and Supreme Court follow identical logic with different case subtypes and aggregation keys.
 
 ---
 
@@ -217,11 +227,8 @@ ecourts-india-data-pipeline/
    - Open `powerbi/ecourts_dashboard.pbix`
    - Refresh data source credentials if prompted
 
----
-
+--
 ## References
 
+- [ECOURTS Services](https://services.ecourts.gov.in/ecourtindia_v6/)
 - [NJDG District Courts Dashboard](https://njdg.ecourts.gov.in/njdg_v3)
-- [NJDG High Courts Dashboard](https://njdg.ecourts.gov.in/hcnjdg_v2)
-- [Supreme Court Dashboard](https://scdg.sci.gov.in/scnjdg)
-- [Ministry of Law & Justice](https://doj.gov.in/)
