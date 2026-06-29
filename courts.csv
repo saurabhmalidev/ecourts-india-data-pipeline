@@ -1,0 +1,51 @@
+court_id,court_name,court_level,parent_court_id,bench_name,state_name,judge_count
+1,Supreme Court of India,Supreme,,Principal Bench,India,34
+2,Bombay High Court,High,1,Mumbai Bench,Maharashtra,75
+3,Bombay High Court,High,1,Nagpur Bench,Maharashtra,25
+4,Delhi High Court,High,1,Principal Bench,Delhi,60
+5,Madras High Court,High,1,Chennai Bench,Tamil Nadu,75
+6,Calcutta High Court,High,1,Principal Bench,West Bengal,58
+7,Karnataka High Court,High,1,Principal Bench,Karnataka,62
+8,Gujarat High Court,High,1,Principal Bench,Gujarat,52
+9,Allahabad High Court,High,1,Lucknow Bench,Uttar Pradesh,80
+10,District Court Mumbai,District,2,,Maharashtra,40
+11,District Court Pune,District,2,,Maharashtra,30
+12,District Court Thane,District,2,,Maharashtra,28
+13,District Court Nashik,District,2,,Maharashtra,22
+14,District Court Aurangabad,District,2,,Maharashtra,18
+15,District Court Nagpur,District,3,,Maharashtra,25
+16,District Court Amravati,District,3,,Maharashtra,15
+17,District Court Delhi Central,District,4,,Delhi,35
+18,District Court Delhi North,District,4,,Delhi,28
+19,District Court Delhi South,District,4,,Delhi,30
+20,District Court Delhi East,District,4,,Delhi,25
+21,District Court Chennai,District,5,,Tamil Nadu,38
+22,District Court Coimbatore,District,5,,Tamil Nadu,30
+23,District Court Madurai,District,5,,Tamil Nadu,28
+24,District Court Salem,District,5,,Tamil Nadu,20
+25,District Court Tiruchirappalli,District,5,,Tamil Nadu,22
+26,District Court Kolkata,District,6,,West Bengal,35
+27,District Court Howrah,District,6,,West Bengal,25
+28,District Court Asansol,District,6,,West Bengal,18
+29,District Court Bengaluru,District,7,,Karnataka,40
+30,District Court Mysuru,District,7,,Karnataka,28
+31,District Court Hubli,District,7,,Karnataka,22
+32,District Court Mangaluru,District,7,,Karnataka,20
+33,District Court Ahmedabad,District,8,,Gujarat,38
+34,District Court Surat,District,8,,Gujarat,30
+35,District Court Vadodara,District,8,,Gujarat,25
+36,District Court Rajkot,District,8,,Gujarat,20
+37,District Court Lucknow,District,9,,Uttar Pradesh,40
+38,District Court Kanpur,District,9,,Uttar Pradesh,35
+39,District Court Agra,District,9,,Uttar Pradesh,28
+40,District Court Varanasi,District,9,,Uttar Pradesh,25
+41,District Court Prayagraj,District,9,,Uttar Pradesh,22
+42,District Court Meerut,District,9,,Uttar Pradesh,20
+43,District Court Ghaziabad,District,9,,Uttar Pradesh,18
+44,District Court Bareilly,District,9,,Uttar Pradesh,16
+45,District Court Gorakhpur,District,9,,Uttar Pradesh,15
+46,District Court Allahabad,District,9,,Uttar Pradesh,30
+47,District Court Noida,District,9,,Uttar Pradesh,20
+48,District Court Mathura,District,9,,Uttar Pradesh,14
+49,District Court Aligarh,District,9,,Uttar Pradesh,14
+50,District Court Jhansi,District,9,,Uttar Pradesh,12
