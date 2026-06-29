@@ -10,7 +10,7 @@ The pipeline ingests judicial case data from a PostgreSQL source, processes it t
 
 📺 [Watch Pipeline & Dashboard Demo](https://youtu.be/SIU5S5UF7dE)
 
-![District Court Dashboard](powerbi/screenshots/district_full_page.png)
+![District Court Dashboard](powerbi/Snapshots/district_full_page.png)
 
 ---
 
