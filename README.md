@@ -78,6 +78,7 @@ Pending probability increases with age — older cases are 85% likely still pend
 ## Pipeline Walkthrough
 
 ### 1. Ingestion — ADF (`pl_ecourts_incremental_load`)
+![ADF Pipeline :](doc/adf-pipelineecourts.png)
 
 - **cases**: Incremental load using watermark table (`last_modified` timestamp). Only changed/new rows pulled per run.
 - **courts**: Full load every run — 50-row dimension table, overwrite is safe and intentional.
