@@ -6,6 +6,20 @@ The pipeline ingests judicial case data from a PostgreSQL source, processes it t
 
 ---
 
+
+## Tech Stack
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+---
+
 ## Demo
 
 ▶️ YouTube [Watch Pipeline & Dashboard Demo](https://youtu.be/SIU5S5UF7dE)
@@ -29,18 +43,7 @@ The pipeline ingests judicial case data from a PostgreSQL source, processes it t
 | Warehouse | Azure Synapse (Dedicated Pool) | `dim_courts` (SCD Type 2) + `fact_cases` (MERGE) |
 | Reporting | Power BI Desktop | District Courts dashboard replicating NJDG |
 
----
 
-## Tech Stack
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ---
 
