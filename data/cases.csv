@@ -1,0 +1,1001 @@
+case_id,case_type,case_subtype,filing_date,status,court_id
+1,Criminal,Motor Accident,06-06-2023,Pending,38
+2,Criminal,Criminal Appeal,16-01-2025,Disposed,5
+3,Criminal,Motor Accident,16-12-2012,Pending,43
+4,Criminal,Assault,01-04-2021,Pending,39
+5,Criminal,POCSO,03-08-2024,Disposed,48
+6,Civil,Revision,18-10-2025,Pending,5
+7,Criminal,POCSO,04-10-2025,Pending,18
+8,Criminal,Motor Accident,20-09-2025,Disposed,34
+9,Criminal,Criminal Appeal,12-11-2013,Pending,2
+10,Civil,Curative Petition,26-02-2021,Pending,1
+11,Criminal,Drugs Case,10-08-2025,Pending,28
+12,Criminal,Motor Accident,27-12-2021,Disposed,30
+13,Criminal,Assault,20-12-2025,Pending,34
+14,Criminal,Sessions Case,20-02-2019,Pending,47
+15,Criminal,POCSO,13-12-2025,Disposed,31
+16,Civil,Money Recovery,24-05-2021,Pending,24
+17,Criminal,Criminal Appeal,10-06-2021,Pending,1
+18,Criminal,Theft,27-06-2024,Pending,23
+19,Criminal,Sessions Case,24-06-2023,Disposed,32
+20,Criminal,POCSO,12-02-2026,Pending,44
+21,Criminal,Cheque Bounce,20-12-2025,Pending,31
+22,Criminal,Sessions Case,04-05-2024,Pending,42
+23,Criminal,Cheque Bounce,09-05-2025,Disposed,22
+24,Civil,Property Dispute,13-10-2025,Disposed,42
+25,Criminal,POCSO,14-11-2025,Pending,34
+26,Criminal,Revision,11-10-2023,Pending,3
+27,Criminal,Cheque Bounce,30-08-2019,Pending,50
+28,Criminal,Assault,27-06-2021,Pending,22
+29,Civil,Writ Petition,05-12-2013,Pending,5
+30,Criminal,Drugs Case,23-08-2014,Pending,50
+31,Criminal,Cheque Bounce,08-05-2025,Pending,42
+32,Criminal,Domestic Violence,27-04-2012,Pending,34
+33,Criminal,Sessions Case,16-06-2018,Pending,28
+34,Criminal,Fraud,14-09-2025,Pending,42
+35,Criminal,Motor Accident,13-05-2018,Pending,49
+36,Civil,Matrimonial Case,02-10-2018,Pending,22
+37,Criminal,Assault,15-09-2024,Pending,35
+38,Criminal,Fraud,19-05-2026,Disposed,16
+39,Civil,Curative Petition,26-10-2025,Pending,1
+40,Civil,Reference,31-01-2024,Pending,6
+41,Criminal,Sessions Case,14-01-2026,Pending,41
+42,Civil,Land Dispute,31-05-2026,Disposed,26
+43,Criminal,Special Leave Petition,14-01-2026,Pending,42
+44,Criminal,Motor Accident,29-07-2011,Pending,34
+45,Civil,Probate,26-07-2014,Pending,44
+46,Criminal,Sessions Case,12-10-2024,Pending,47
+47,Criminal,Fraud,18-01-2025,Pending,23
+48,Criminal,Motor Accident,15-01-2022,Pending,48
+49,Criminal,POCSO,26-05-2024,Pending,17
+50,Civil,Reference,18-02-2024,Pending,9
+51,Criminal,Assault,15-05-2026,Pending,36
+52,Criminal,Sessions Case,10-06-2025,Disposed,36
+53,Civil,Curative Petition,03-01-2024,Pending,1
+54,Civil,Second Appeal,22-09-2025,Disposed,6
+55,Criminal,POCSO,24-09-2024,Pending,48
+56,Civil,Land Dispute,31-10-2025,Pending,49
+57,Criminal,Bail Application,17-10-2021,Pending,4
+58,Civil,Matrimonial Case,24-03-2026,Disposed,31
+59,Criminal,Theft,27-10-2022,Pending,17
+60,Criminal,Domestic Violence,16-05-2016,Disposed,35
+61,Civil,Reference,28-02-2026,Disposed,8
+62,Criminal,Domestic Violence,25-04-2015,Disposed,46
+63,Civil,Property Dispute,19-07-2021,Pending,22
+64,Civil,Property Dispute,30-03-2026,Pending,37
+65,Civil,Probate,12-02-2012,Pending,27
+66,Civil,Land Dispute,13-03-2020,Pending,16
+67,Criminal,Cheque Bounce,31-10-2019,Pending,32
+68,Civil,Injunction Suit,23-12-2025,Disposed,25
+69,Criminal,POCSO,23-11-2011,Pending,49
+70,Criminal,Assault,27-01-2026,Disposed,14
+71,Criminal,Fraud,02-01-2025,Pending,21
+72,Civil,First Appeal,13-03-2014,Pending,4
+73,Civil,Reference,06-08-2022,Pending,6
+74,Criminal,Fraud,18-05-2026,Disposed,18
+75,Criminal,Domestic Violence,14-04-2022,Pending,21
+76,Civil,Second Appeal,02-09-2023,Disposed,5
+77,Criminal,Assault,09-07-2012,Disposed,50
+78,Criminal,Motor Accident,17-04-2025,Pending,25
+79,Civil,Second Appeal,13-07-2016,Disposed,6
+80,Criminal,Theft,28-09-2021,Disposed,37
+81,Criminal,Sessions Case,11-01-2026,Pending,40
+82,Criminal,Revision,13-09-2025,Disposed,8
+83,Criminal,Cheque Bounce,12-06-2022,Pending,18
+84,Criminal,Criminal Appeal,05-11-2018,Pending,1
+85,Criminal,Domestic Violence,25-05-2026,Disposed,47
+86,Criminal,Sessions Case,20-12-2017,Pending,36
+87,Criminal,Domestic Violence,16-03-2012,Pending,45
+88,Criminal,Drugs Case,20-03-2019,Pending,50
+89,Criminal,Theft,10-02-2018,Pending,24
+90,Civil,First Appeal,02-04-2012,Pending,5
+91,Civil,Case/Petition,04-08-2014,Pending,5
+92,Criminal,POCSO,23-05-2023,Pending,44
+93,Civil,Revision,10-11-2022,Pending,8
+94,Criminal,Drugs Case,16-10-2023,Pending,13
+95,Criminal,Domestic Violence,03-09-2021,Pending,37
+96,Criminal,Assault,04-01-2023,Disposed,10
+97,Criminal,Cheque Bounce,05-10-2021,Disposed,45
+98,Criminal,Cheque Bounce,04-03-2026,Disposed,49
+99,Criminal,Cheque Bounce,03-05-2025,Disposed,33
+100,Civil,Special Leave Petition,29-06-2020,Pending,1
+101,Criminal,Drugs Case,03-01-2026,Disposed,42
+102,Civil,Money Recovery,06-04-2026,Pending,35
+103,Criminal,Sessions Case,21-12-2025,Disposed,31
+104,Criminal,Domestic Violence,13-05-2014,Pending,49
+105,Civil,Writ Petition,27-06-2024,Pending,8
+106,Criminal,Fraud,17-06-2026,Pending,47
+107,Civil,Property Dispute,12-10-2024,Pending,19
+108,Criminal,Fraud,29-04-2025,Pending,45
+109,Civil,Reference,27-03-2022,Pending,7
+110,Criminal,Sessions Case,02-07-2023,Pending,30
+111,Criminal,Revision,20-01-2026,Pending,4
+112,Civil,Revision,19-10-2021,Pending,7
+113,Criminal,Contempt,31-08-2024,Disposed,9
+114,Criminal,Domestic Violence,28-08-2025,Disposed,36
+115,Criminal,Revision,02-05-2025,Pending,8
+116,Criminal,POCSO,30-11-2024,Pending,12
+117,Criminal,Fraud,04-03-2026,Pending,38
+118,Criminal,Drugs Case,27-01-2026,Pending,20
+119,Criminal,Fraud,15-12-2025,Disposed,47
+120,Criminal,Theft,19-08-2025,Pending,15
+121,Civil,Special Leave Petition,16-01-2026,Pending,1
+122,Criminal,Criminal Appeal,26-04-2025,Pending,1
+123,Criminal,Sessions Case,15-12-2023,Disposed,17
+124,Criminal,Sessions Case,02-12-2021,Pending,43
+125,Civil,Probate,22-09-2016,Pending,32
+126,Civil,Case/Petition,26-12-2021,Pending,8
+127,Criminal,Drugs Case,18-02-2024,Pending,23
+128,Criminal,POCSO,21-02-2012,Pending,10
+129,Criminal,Contempt Petition,19-09-2018,Pending,1
+130,Criminal,Domestic Violence,08-11-2013,Pending,26
+131,Civil,Matrimonial Case,18-05-2024,Pending,45
+132,Criminal,Drugs Case,26-02-2022,Pending,28
+133,Criminal,Domestic Violence,03-07-2019,Pending,45
+134,Criminal,Sessions Case,22-02-2021,Pending,43
+135,Civil,Property Dispute,11-10-2014,Pending,12
+136,Civil,Land Dispute,18-05-2026,Pending,12
+137,Criminal,Assault,30-06-2025,Pending,44
+138,Criminal,Drugs Case,26-05-2014,Pending,29
+139,Criminal,Drugs Case,26-10-2025,Pending,26
+140,Criminal,Domestic Violence,20-01-2016,Pending,21
+141,Criminal,Theft,23-03-2026,Disposed,15
+142,Civil,Probate,16-12-2016,Pending,36
+143,Criminal,Sessions Case,20-11-2022,Disposed,40
+144,Criminal,Sessions Case,07-08-2025,Pending,38
+145,Criminal,Fraud,15-07-2025,Pending,42
+146,Civil,First Appeal,09-04-2024,Pending,7
+147,Civil,Land Dispute,24-08-2025,Disposed,23
+148,Criminal,Domestic Violence,31-07-2025,Pending,18
+149,Criminal,Sessions Case,09-03-2024,Disposed,29
+150,Criminal,POCSO,26-07-2022,Pending,16
+151,Criminal,Sessions Case,12-11-2025,Pending,45
+152,Civil,Money Recovery,06-09-2021,Pending,47
+153,Criminal,Domestic Violence,31-01-2016,Pending,23
+154,Criminal,Motor Accident,04-05-2026,Pending,31
+155,Criminal,POCSO,06-06-2026,Disposed,25
+156,Civil,Letters Patent Appeal,19-01-2026,Pending,5
+157,Criminal,Sessions Case,26-04-2026,Pending,46
+158,Civil,Property Dispute,15-08-2024,Disposed,19
+159,Criminal,Motor Accident,01-10-2024,Disposed,19
+160,Criminal,Criminal Appeal,02-03-2013,Pending,7
+161,Criminal,Sessions Case,27-04-2026,Disposed,45
+162,Criminal,Revision,30-08-2017,Pending,3
+163,Civil,Case/Petition,27-08-2025,Pending,2
+164,Criminal,Motor Accident,06-09-2015,Pending,25
+165,Criminal,Assault,28-09-2025,Pending,24
+166,Civil,Money Recovery,11-10-2024,Pending,38
+167,Criminal,Fraud,19-01-2020,Pending,21
+168,Civil,Special Leave Petition,18-09-2017,Pending,1
+169,Criminal,Drugs Case,18-04-2023,Pending,28
+170,Civil,Property Dispute,06-04-2018,Pending,21
+171,Criminal,Drugs Case,02-11-2021,Pending,46
+172,Criminal,Assault,11-09-2021,Pending,25
+173,Criminal,Theft,31-08-2025,Pending,12
+174,Criminal,Revision,20-12-2023,Pending,9
+175,Civil,Writ Petition,21-05-2022,Pending,8
+176,Civil,Matrimonial Case,16-05-2024,Pending,48
+177,Criminal,Motor Accident,26-12-2025,Pending,41
+178,Criminal,Sessions Case,29-12-2025,Pending,17
+179,Civil,Money Recovery,27-09-2025,Pending,13
+180,Civil,First Appeal,04-05-2026,Pending,3
+181,Criminal,Criminal Appeal,04-01-2022,Pending,6
+182,Criminal,Reference,10-01-2026,Pending,8
+183,Criminal,Revision,14-12-2016,Pending,9
+184,Criminal,Sessions Case,30-06-2022,Pending,10
+185,Criminal,Theft,28-12-2025,Pending,40
+186,Criminal,Theft,22-08-2024,Pending,38
+187,Civil,Writ Petition,27-07-2025,Disposed,1
+188,Criminal,Criminal Appeal,19-06-2024,Disposed,7
+189,Criminal,Fraud,12-08-2025,Disposed,15
+190,Civil,Money Recovery,28-12-2023,Disposed,36
+191,Civil,Reference,23-07-2025,Disposed,6
+192,Civil,Curative Petition,13-10-2024,Disposed,1
+193,Criminal,Cheque Bounce,11-11-2013,Pending,43
+194,Criminal,Motor Accident,06-02-2013,Pending,29
+195,Criminal,Fraud,19-09-2011,Pending,44
+196,Civil,Money Recovery,30-07-2017,Pending,36
+197,Civil,Revision,04-11-2023,Pending,9
+198,Civil,Injunction Suit,16-07-2019,Pending,50
+199,Criminal,Motor Accident,15-03-2020,Pending,25
+200,Civil,Case/Petition,03-10-2023,Pending,7
+201,Civil,Case/Petition,29-11-2024,Pending,9
+202,Criminal,Sessions Case,22-05-2021,Pending,28
+203,Criminal,Domestic Violence,03-07-2019,Pending,15
+204,Criminal,Reference,19-09-2025,Pending,5
+205,Criminal,Criminal Appeal,13-05-2025,Disposed,8
+206,Civil,Matrimonial Case,20-01-2026,Pending,43
+207,Criminal,POCSO,18-03-2026,Pending,13
+208,Criminal,Theft,25-02-2023,Disposed,24
+209,Criminal,Theft,14-07-2025,Pending,47
+210,Civil,Injunction Suit,09-12-2024,Pending,10
+211,Civil,Land Dispute,26-08-2015,Pending,26
+212,Criminal,Bail Application,13-02-2024,Pending,2
+213,Civil,Curative Petition,07-03-2022,Disposed,1
+214,Civil,Second Appeal,18-07-2025,Pending,9
+215,Criminal,Domestic Violence,02-05-2021,Pending,27
+216,Criminal,POCSO,26-08-2023,Pending,49
+217,Civil,Property Dispute,25-09-2025,Pending,27
+218,Civil,First Appeal,27-02-2018,Disposed,3
+219,Criminal,Domestic Violence,10-05-2022,Pending,14
+220,Civil,Property Dispute,24-12-2023,Pending,19
+221,Civil,First Appeal,15-07-2025,Pending,5
+222,Criminal,Motor Accident,25-07-2025,Disposed,42
+223,Civil,Money Recovery,18-09-2023,Pending,40
+224,Criminal,Fraud,20-06-2025,Disposed,34
+225,Civil,Reference,04-03-2013,Disposed,5
+226,Criminal,Domestic Violence,13-08-2025,Pending,32
+227,Civil,Reference,17-01-2026,Disposed,9
+228,Criminal,Theft,01-11-2023,Pending,47
+229,Criminal,Theft,24-08-2012,Pending,17
+230,Criminal,Theft,28-08-2018,Pending,43
+231,Civil,Injunction Suit,29-06-2019,Pending,37
+232,Civil,Reference,14-02-2023,Disposed,3
+233,Criminal,Criminal Appeal,11-05-2026,Disposed,2
+234,Criminal,Drugs Case,24-01-2022,Pending,40
+235,Civil,First Appeal,11-09-2024,Pending,5
+236,Criminal,Assault,26-03-2018,Disposed,34
+237,Criminal,Motor Accident,22-12-2024,Pending,37
+238,Civil,Special Leave Petition,19-04-2018,Pending,1
+239,Civil,Money Recovery,16-04-2026,Disposed,48
+240,Civil,Writ Petition,08-04-2026,Disposed,1
+241,Criminal,Motor Accident,23-07-2025,Disposed,28
+242,Civil,Case/Petition,14-10-2013,Pending,8
+243,Criminal,POCSO,13-07-2025,Pending,20
+244,Criminal,Motor Accident,20-10-2018,Pending,19
+245,Criminal,Fraud,27-11-2012,Pending,23
+246,Civil,Injunction Suit,09-02-2026,Disposed,25
+247,Criminal,Drugs Case,28-10-2019,Pending,12
+248,Criminal,Drugs Case,30-04-2024,Pending,40
+249,Criminal,Theft,09-12-2025,Disposed,29
+250,Criminal,Criminal Appeal,21-08-2022,Disposed,9
+251,Civil,Case/Petition,13-02-2017,Disposed,8
+252,Criminal,Theft,03-12-2025,Disposed,44
+253,Criminal,Domestic Violence,17-07-2024,Pending,44
+254,Criminal,Sessions Case,02-02-2026,Pending,14
+255,Civil,Land Dispute,13-10-2025,Pending,18
+256,Civil,Revision,30-10-2012,Pending,8
+257,Criminal,Fraud,23-05-2014,Pending,26
+258,Civil,Writ Petition,22-12-2023,Pending,7
+259,Criminal,Sessions Case,04-09-2024,Pending,17
+260,Criminal,Fraud,15-05-2017,Pending,38
+261,Criminal,Drugs Case,19-01-2025,Pending,46
+262,Civil,Money Recovery,01-03-2025,Disposed,48
+263,Civil,Property Dispute,11-06-2026,Disposed,34
+264,Civil,Review Petition,12-12-2019,Disposed,1
+265,Criminal,Cheque Bounce,02-10-2022,Pending,14
+266,Criminal,Cheque Bounce,07-10-2019,Pending,35
+267,Civil,Matrimonial Case,19-05-2024,Pending,46
+268,Criminal,Sessions Case,02-08-2025,Pending,48
+269,Civil,Money Recovery,10-12-2012,Pending,45
+270,Criminal,Sessions Case,13-09-2017,Disposed,22
+271,Civil,Writ Petition,06-03-2025,Pending,9
+272,Civil,Injunction Suit,16-01-2016,Pending,29
+273,Criminal,Domestic Violence,02-04-2019,Pending,13
+274,Criminal,POCSO,05-02-2024,Pending,12
+275,Civil,Reference,04-11-2025,Disposed,9
+276,Criminal,Contempt,23-10-2024,Pending,2
+277,Civil,First Appeal,22-06-2019,Pending,4
+278,Civil,Letters Patent Appeal,19-05-2026,Disposed,5
+279,Criminal,Fraud,04-11-2019,Pending,15
+280,Criminal,Fraud,27-07-2025,Pending,27
+281,Criminal,POCSO,12-07-2023,Pending,49
+282,Criminal,Cheque Bounce,31-12-2021,Pending,14
+283,Civil,Money Recovery,24-02-2023,Disposed,13
+284,Criminal,Fraud,06-01-2026,Disposed,47
+285,Criminal,Motor Accident,19-02-2017,Pending,42
+286,Criminal,Domestic Violence,10-09-2025,Pending,27
+287,Criminal,POCSO,09-11-2018,Pending,23
+288,Civil,Probate,20-04-2024,Pending,21
+289,Criminal,Theft,14-10-2025,Disposed,39
+290,Criminal,Domestic Violence,15-01-2023,Pending,25
+291,Civil,Special Leave Petition,01-03-2023,Pending,1
+292,Criminal,Motor Accident,01-12-2023,Pending,45
+293,Criminal,Fraud,08-10-2024,Pending,15
+294,Civil,Revision,08-12-2023,Pending,7
+295,Criminal,Theft,16-04-2012,Pending,31
+296,Criminal,Assault,13-11-2023,Pending,34
+297,Civil,First Appeal,23-05-2022,Pending,8
+298,Criminal,Fraud,17-11-2025,Disposed,14
+299,Criminal,Motor Accident,15-04-2017,Pending,35
+300,Criminal,Cheque Bounce,25-03-2017,Pending,29
+301,Criminal,Fraud,08-01-2024,Pending,22
+302,Criminal,Assault,13-07-2021,Disposed,23
+303,Civil,Writ Petition,30-09-2013,Disposed,6
+304,Criminal,POCSO,12-02-2026,Pending,34
+305,Criminal,POCSO,19-04-2012,Pending,12
+306,Criminal,Domestic Violence,05-08-2023,Pending,35
+307,Civil,Matrimonial Case,02-03-2021,Pending,16
+308,Civil,Letters Patent Appeal,19-02-2018,Pending,8
+309,Criminal,POCSO,18-08-2024,Disposed,50
+310,Civil,Property Dispute,26-08-2025,Disposed,36
+311,Criminal,Cheque Bounce,24-01-2026,Pending,23
+312,Civil,Probate,21-01-2026,Pending,11
+313,Civil,Injunction Suit,16-10-2025,Pending,22
+314,Criminal,Domestic Violence,17-01-2014,Pending,44
+315,Civil,Probate,17-04-2023,Pending,31
+316,Civil,Land Dispute,18-11-2023,Pending,43
+317,Criminal,Reference,21-04-2022,Disposed,8
+318,Criminal,Domestic Violence,12-07-2025,Pending,34
+319,Criminal,Drugs Case,13-07-2022,Pending,45
+320,Civil,Land Dispute,01-10-2016,Pending,43
+321,Criminal,Cheque Bounce,16-04-2021,Pending,24
+322,Criminal,Motor Accident,20-11-2015,Pending,13
+323,Civil,First Appeal,03-12-2018,Pending,9
+324,Criminal,Cheque Bounce,11-03-2024,Disposed,25
+325,Criminal,Drugs Case,12-12-2025,Pending,35
+326,Criminal,Cheque Bounce,21-07-2023,Pending,20
+327,Criminal,Sessions Case,14-09-2024,Pending,13
+328,Criminal,Fraud,22-04-2023,Pending,22
+329,Criminal,Fraud,13-10-2022,Pending,26
+330,Civil,Revision,25-10-2013,Pending,5
+331,Civil,Review Petition,26-10-2025,Disposed,1
+332,Civil,Land Dispute,28-01-2025,Pending,25
+333,Criminal,Motor Accident,08-11-2024,Pending,18
+334,Civil,Writ Petition,09-12-2025,Disposed,8
+335,Criminal,Theft,20-01-2014,Pending,25
+336,Civil,Writ Petition,07-09-2025,Pending,7
+337,Civil,Reference,18-10-2023,Pending,9
+338,Civil,Injunction Suit,16-01-2026,Disposed,15
+339,Criminal,Drugs Case,15-03-2020,Pending,15
+340,Criminal,Domestic Violence,26-05-2023,Pending,21
+341,Civil,Property Dispute,13-05-2014,Pending,14
+342,Criminal,Drugs Case,21-08-2021,Pending,42
+343,Criminal,Assault,10-01-2026,Disposed,19
+344,Criminal,Cheque Bounce,01-07-2025,Pending,46
+345,Criminal,Cheque Bounce,14-11-2021,Pending,49
+346,Civil,First Appeal,31-03-2026,Pending,3
+347,Civil,Letters Patent Appeal,28-05-2026,Disposed,5
+348,Criminal,Motor Accident,03-07-2022,Pending,38
+349,Criminal,Assault,20-07-2022,Pending,37
+350,Civil,Injunction Suit,15-08-2017,Pending,36
+351,Criminal,POCSO,19-05-2026,Pending,20
+352,Civil,Matrimonial Case,23-07-2025,Disposed,33
+353,Criminal,Transfer Petition,19-10-2025,Disposed,1
+354,Criminal,Cheque Bounce,10-08-2025,Pending,27
+355,Criminal,Domestic Violence,03-02-2022,Pending,11
+356,Criminal,Assault,05-10-2024,Pending,27
+357,Criminal,POCSO,09-09-2014,Pending,46
+358,Criminal,Sessions Case,05-03-2019,Disposed,18
+359,Criminal,Cheque Bounce,12-09-2019,Pending,13
+360,Criminal,Drugs Case,30-08-2025,Pending,49
+361,Criminal,Contempt Petition,21-03-2026,Disposed,1
+362,Criminal,POCSO,25-07-2022,Pending,13
+363,Criminal,Sessions Case,13-06-2026,Disposed,27
+364,Civil,Second Appeal,14-06-2026,Pending,8
+365,Criminal,Motor Accident,04-04-2016,Pending,34
+366,Criminal,Criminal Appeal,26-02-2025,Pending,8
+367,Criminal,Assault,07-04-2025,Disposed,32
+368,Criminal,Assault,09-07-2025,Disposed,38
+369,Criminal,Theft,02-11-2023,Pending,25
+370,Criminal,Domestic Violence,13-06-2017,Pending,10
+371,Criminal,Motor Accident,26-03-2019,Pending,23
+372,Criminal,Motor Accident,19-02-2026,Disposed,20
+373,Criminal,Contempt,31-12-2025,Pending,3
+374,Civil,Letters Patent Appeal,09-11-2018,Pending,3
+375,Civil,Matrimonial Case,31-07-2024,Pending,13
+376,Criminal,Assault,16-08-2025,Pending,24
+377,Civil,Second Appeal,26-02-2013,Pending,6
+378,Criminal,Assault,13-07-2024,Pending,36
+379,Civil,Money Recovery,02-02-2017,Pending,17
+380,Criminal,POCSO,31-03-2026,Pending,47
+381,Criminal,Cheque Bounce,23-09-2022,Pending,25
+382,Criminal,Drugs Case,20-11-2021,Disposed,20
+383,Criminal,Cheque Bounce,05-01-2017,Pending,33
+384,Civil,Injunction Suit,01-11-2025,Pending,47
+385,Civil,Property Dispute,30-09-2017,Pending,40
+386,Criminal,Assault,01-08-2025,Pending,31
+387,Civil,Matrimonial Case,26-08-2016,Pending,14
+388,Civil,Letters Patent Appeal,18-07-2025,Pending,6
+389,Criminal,Cheque Bounce,18-01-2026,Disposed,42
+390,Civil,Money Recovery,24-07-2024,Disposed,34
+391,Criminal,Theft,12-05-2026,Pending,48
+392,Criminal,Theft,25-11-2022,Pending,11
+393,Criminal,Sessions Case,16-03-2024,Disposed,12
+394,Criminal,Contempt,09-02-2026,Pending,8
+395,Criminal,Domestic Violence,31-08-2013,Pending,19
+396,Civil,Reference,30-11-2025,Pending,5
+397,Criminal,Fraud,07-07-2024,Pending,32
+398,Criminal,Cheque Bounce,25-02-2024,Pending,42
+399,Criminal,Contempt,18-08-2016,Pending,8
+400,Criminal,Assault,18-04-2025,Pending,43
+401,Criminal,Sessions Case,18-03-2024,Pending,25
+402,Civil,Reference,21-05-2026,Pending,7
+403,Civil,Property Dispute,02-10-2025,Disposed,46
+404,Civil,Matrimonial Case,01-04-2019,Pending,15
+405,Civil,Reference,16-06-2016,Pending,8
+406,Criminal,Fraud,10-08-2021,Pending,29
+407,Criminal,Drugs Case,15-03-2025,Pending,30
+408,Criminal,Motor Accident,21-03-2016,Pending,14
+409,Criminal,Cheque Bounce,30-12-2025,Disposed,25
+410,Criminal,Theft,02-06-2024,Pending,41
+411,Criminal,POCSO,22-11-2025,Pending,47
+412,Civil,Case/Petition,07-03-2024,Disposed,8
+413,Criminal,Sessions Case,03-04-2012,Pending,49
+414,Criminal,Theft,11-12-2023,Pending,14
+415,Civil,Property Dispute,19-08-2022,Pending,15
+416,Criminal,Fraud,24-07-2024,Pending,41
+417,Criminal,Revision,17-01-2025,Disposed,6
+418,Criminal,Fraud,23-02-2025,Pending,46
+419,Civil,Reference,07-01-2025,Pending,6
+420,Civil,Review Petition,14-10-2025,Pending,1
+421,Civil,Case/Petition,25-08-2024,Pending,7
+422,Criminal,POCSO,18-02-2025,Pending,11
+423,Civil,Matrimonial Case,08-01-2022,Pending,35
+424,Criminal,Contempt,12-03-2014,Pending,6
+425,Criminal,Domestic Violence,04-12-2023,Pending,14
+426,Civil,Money Recovery,12-07-2025,Disposed,14
+427,Criminal,Cheque Bounce,18-08-2017,Pending,43
+428,Criminal,Motor Accident,19-02-2016,Pending,15
+429,Criminal,POCSO,19-07-2014,Pending,41
+430,Criminal,Theft,21-07-2022,Pending,34
+431,Civil,Probate,26-07-2025,Disposed,36
+432,Civil,Land Dispute,11-04-2024,Pending,38
+433,Criminal,Assault,27-01-2015,Pending,46
+434,Criminal,Assault,02-10-2025,Disposed,42
+435,Criminal,Sessions Case,04-05-2018,Pending,32
+436,Civil,Writ Petition,09-12-2025,Disposed,4
+437,Criminal,Cheque Bounce,01-07-2022,Disposed,19
+438,Criminal,Cheque Bounce,02-05-2026,Pending,20
+439,Criminal,Domestic Violence,28-07-2024,Pending,44
+440,Criminal,Motor Accident,06-11-2025,Pending,21
+441,Civil,Case/Petition,20-11-2025,Pending,6
+442,Civil,Writ Petition,22-11-2019,Pending,9
+443,Criminal,Assault,15-05-2022,Pending,32
+444,Criminal,Drugs Case,02-09-2025,Disposed,25
+445,Civil,Probate,08-03-2020,Pending,37
+446,Civil,Writ Petition,08-02-2022,Pending,5
+447,Criminal,Theft,28-09-2013,Pending,26
+448,Criminal,Drugs Case,12-05-2026,Pending,14
+449,Criminal,Drugs Case,30-04-2026,Pending,46
+450,Civil,Injunction Suit,30-10-2025,Pending,46
+451,Criminal,Drugs Case,21-08-2014,Pending,42
+452,Civil,Second Appeal,13-04-2020,Pending,8
+453,Civil,Land Dispute,28-05-2018,Pending,38
+454,Criminal,Domestic Violence,26-10-2025,Disposed,15
+455,Civil,Probate,03-10-2018,Pending,13
+456,Criminal,POCSO,09-10-2011,Pending,47
+457,Criminal,Motor Accident,05-10-2025,Pending,34
+458,Criminal,Domestic Violence,14-03-2025,Pending,50
+459,Criminal,Contempt Petition,09-12-2021,Pending,1
+460,Criminal,Motor Accident,19-05-2026,Pending,44
+461,Criminal,Domestic Violence,09-10-2025,Pending,38
+462,Criminal,Cheque Bounce,23-02-2026,Disposed,45
+463,Civil,Reference,15-08-2021,Disposed,9
+464,Criminal,Drugs Case,26-07-2021,Pending,43
+465,Criminal,POCSO,25-03-2025,Pending,18
+466,Civil,Injunction Suit,14-12-2025,Disposed,19
+467,Civil,Case/Petition,05-06-2024,Disposed,3
+468,Criminal,Drugs Case,07-01-2019,Pending,17
+469,Criminal,Theft,16-03-2024,Pending,27
+470,Civil,Matrimonial Case,23-11-2025,Pending,48
+471,Criminal,Contempt,28-01-2026,Pending,7
+472,Civil,Property Dispute,16-02-2022,Pending,44
+473,Civil,Probate,06-10-2023,Pending,12
+474,Criminal,Fraud,23-12-2021,Pending,36
+475,Civil,Land Dispute,28-04-2023,Pending,30
+476,Civil,Money Recovery,08-03-2026,Disposed,19
+477,Criminal,Motor Accident,26-05-2026,Pending,30
+478,Civil,Reference,28-08-2025,Pending,4
+479,Criminal,Fraud,14-05-2026,Pending,13
+480,Civil,Curative Petition,25-03-2026,Pending,1
+481,Criminal,Domestic Violence,20-10-2015,Pending,14
+482,Criminal,Motor Accident,10-05-2024,Disposed,18
+483,Criminal,POCSO,23-09-2025,Pending,27
+484,Criminal,Domestic Violence,20-06-2021,Pending,11
+485,Criminal,Reference,15-06-2023,Pending,9
+486,Criminal,Cheque Bounce,14-03-2026,Pending,14
+487,Criminal,Domestic Violence,16-06-2024,Pending,49
+488,Civil,Writ Petition,02-03-2022,Pending,1
+489,Criminal,Assault,03-04-2026,Disposed,40
+490,Criminal,POCSO,04-05-2026,Pending,23
+491,Criminal,Domestic Violence,08-10-2023,Pending,43
+492,Civil,Property Dispute,20-02-2026,Disposed,20
+493,Criminal,Cheque Bounce,16-05-2023,Pending,27
+494,Civil,Revision,18-04-2026,Disposed,7
+495,Criminal,Cheque Bounce,13-09-2024,Pending,29
+496,Civil,Matrimonial Case,14-11-2021,Pending,33
+497,Criminal,Drugs Case,07-04-2022,Disposed,22
+498,Civil,Injunction Suit,30-06-2013,Pending,44
+499,Criminal,Theft,05-01-2026,Disposed,35
+500,Civil,Matrimonial Case,24-11-2022,Disposed,33
+501,Criminal,Theft,23-02-2023,Pending,20
+502,Criminal,POCSO,10-08-2025,Pending,27
+503,Criminal,Cheque Bounce,01-12-2025,Disposed,36
+504,Civil,Probate,08-12-2016,Pending,16
+505,Civil,Property Dispute,09-08-2021,Disposed,13
+506,Criminal,Motor Accident,02-04-2026,Pending,16
+507,Civil,Letters Patent Appeal,14-05-2025,Pending,7
+508,Criminal,Domestic Violence,22-02-2017,Pending,35
+509,Civil,Reference,16-05-2026,Disposed,9
+510,Criminal,Drugs Case,27-12-2025,Pending,15
+511,Criminal,Fraud,15-09-2018,Pending,39
+512,Criminal,Drugs Case,02-03-2015,Pending,31
+513,Civil,Money Recovery,13-11-2016,Disposed,25
+514,Criminal,Sessions Case,16-10-2024,Pending,42
+515,Criminal,Theft,04-07-2023,Pending,15
+516,Criminal,Fraud,29-01-2023,Pending,45
+517,Criminal,Criminal Appeal,14-01-2026,Disposed,1
+518,Criminal,Drugs Case,13-11-2024,Pending,42
+519,Criminal,Contempt,08-11-2025,Pending,3
+520,Criminal,Cheque Bounce,26-02-2024,Pending,27
+521,Criminal,Cheque Bounce,06-04-2026,Disposed,47
+522,Criminal,Theft,28-09-2024,Pending,35
+523,Civil,Letters Patent Appeal,03-01-2024,Disposed,7
+524,Criminal,Drugs Case,18-01-2026,Pending,20
+525,Criminal,Cheque Bounce,03-03-2026,Disposed,28
+526,Civil,Review Petition,12-02-2026,Pending,1
+527,Criminal,Drugs Case,30-04-2023,Pending,29
+528,Criminal,Sessions Case,25-07-2015,Pending,35
+529,Civil,Property Dispute,29-01-2015,Disposed,36
+530,Civil,Money Recovery,27-11-2025,Pending,49
+531,Criminal,Theft,06-08-2024,Pending,36
+532,Criminal,Theft,10-06-2026,Disposed,24
+533,Civil,Second Appeal,20-05-2024,Disposed,7
+534,Criminal,Drugs Case,27-07-2024,Pending,46
+535,Civil,Review Petition,08-08-2025,Pending,1
+536,Criminal,Cheque Bounce,07-08-2023,Disposed,38
+537,Criminal,Theft,30-09-2021,Pending,43
+538,Criminal,Sessions Case,30-11-2025,Pending,46
+539,Criminal,'Special Leave Petition (Crl,,,
+540,Criminal,Cheque Bounce,27-11-2022,Pending,14
+541,Criminal,Contempt Petition,06-02-2026,Disposed,1
+542,Criminal,Theft,19-06-2026,Disposed,41
+543,Criminal,Fraud,22-12-2025,Disposed,28
+544,Civil,Case/Petition,05-08-2025,Pending,6
+545,Civil,First Appeal,30-04-2026,Disposed,4
+546,Civil,Property Dispute,15-11-2025,Disposed,31
+547,Criminal,Assault,20-09-2024,Disposed,48
+548,Criminal,Domestic Violence,05-11-2024,Pending,31
+549,Criminal,Assault,12-12-2013,Disposed,33
+550,Criminal,Sessions Case,06-03-2026,Disposed,23
+551,Civil,Revision,08-03-2026,Pending,3
+552,Civil,Matrimonial Case,27-07-2024,Pending,23
+553,Criminal,Cheque Bounce,27-08-2021,Pending,28
+554,Civil,First Appeal,08-01-2023,Pending,9
+555,Criminal,Assault,09-04-2023,Pending,48
+556,Criminal,POCSO,27-07-2019,Pending,15
+557,Criminal,Sessions Case,30-05-2026,Pending,45
+558,Civil,Injunction Suit,25-03-2026,Disposed,34
+559,Criminal,POCSO,12-11-2025,Pending,11
+560,Civil,Matrimonial Case,09-10-2014,Pending,18
+561,Civil,Revision,31-03-2026,Pending,4
+562,Criminal,Assault,02-04-2017,Pending,42
+563,Civil,Injunction Suit,10-07-2025,Disposed,12
+564,Criminal,Drugs Case,03-03-2023,Pending,32
+565,Criminal,Theft,15-10-2024,Disposed,23
+566,Criminal,Theft,03-02-2017,Disposed,11
+567,Civil,Land Dispute,01-03-2024,Disposed,37
+568,Civil,Revision,23-05-2018,Pending,7
+569,Criminal,Contempt,26-03-2023,Pending,6
+570,Civil,Case/Petition,08-08-2025,Pending,9
+571,Criminal,Assault,02-01-2025,Pending,36
+572,Civil,Injunction Suit,12-05-2026,Disposed,39
+573,Criminal,Theft,31-01-2026,Disposed,49
+574,Civil,Land Dispute,25-04-2023,Pending,19
+575,Criminal,Sessions Case,09-06-2017,Pending,13
+576,Civil,Writ Petition,24-11-2025,Disposed,3
+577,Civil,Injunction Suit,13-07-2024,Pending,12
+578,Civil,Case/Petition,19-11-2025,Pending,2
+579,Civil,Special Leave Petition,18-12-2022,Disposed,1
+580,Criminal,Fraud,20-12-2025,Pending,22
+581,Civil,Property Dispute,27-02-2023,Pending,10
+582,Civil,Injunction Suit,05-05-2013,Pending,19
+583,Civil,Money Recovery,15-08-2025,Pending,49
+584,Civil,Money Recovery,18-02-2026,Pending,45
+585,Criminal,Theft,19-01-2026,Disposed,29
+586,Civil,First Appeal,18-08-2022,Pending,8
+587,Civil,Property Dispute,27-02-2025,Pending,40
+588,Criminal,Domestic Violence,05-11-2025,Disposed,15
+589,Criminal,Fraud,14-11-2025,Pending,48
+590,Civil,Land Dispute,18-05-2026,Pending,14
+591,Criminal,Cheque Bounce,03-03-2025,Disposed,37
+592,Civil,Second Appeal,25-01-2013,Pending,2
+593,Criminal,POCSO,26-07-2023,Pending,11
+594,Civil,Property Dispute,27-03-2019,Disposed,14
+595,Criminal,Fraud,25-02-2022,Pending,11
+596,Criminal,Motor Accident,03-04-2026,Disposed,36
+597,Civil,Letters Patent Appeal,31-10-2022,Pending,9
+598,Criminal,Fraud,20-07-2024,Disposed,34
+599,Criminal,Drugs Case,20-07-2023,Pending,15
+600,Civil,Money Recovery,14-07-2025,Disposed,39
+601,Criminal,POCSO,29-08-2025,Pending,28
+602,Criminal,POCSO,07-01-2023,Pending,24
+603,Criminal,Fraud,14-10-2023,Disposed,19
+604,Civil,Reference,05-05-2026,Pending,7
+605,Civil,Money Recovery,11-03-2025,Disposed,47
+606,Criminal,Drugs Case,11-12-2021,Pending,41
+607,Criminal,Cheque Bounce,29-08-2025,Pending,41
+608,Civil,Injunction Suit,27-08-2022,Pending,30
+609,Criminal,Fraud,20-01-2022,Pending,50
+610,Criminal,Cheque Bounce,03-05-2022,Pending,13
+611,Civil,Property Dispute,05-03-2025,Disposed,28
+612,Criminal,Fraud,11-04-2026,Pending,41
+613,Civil,Injunction Suit,13-06-2023,Pending,21
+614,Civil,Curative Petition,29-08-2024,Pending,1
+615,Criminal,POCSO,15-06-2021,Pending,12
+616,Civil,Money Recovery,05-10-2024,Pending,35
+617,Criminal,Reference,20-07-2013,Pending,9
+618,Criminal,Sessions Case,30-09-2016,Pending,44
+619,Civil,Review Petition,05-03-2022,Disposed,1
+620,Criminal,Domestic Violence,05-10-2025,Disposed,20
+621,Criminal,Drugs Case,21-05-2025,Disposed,18
+622,Criminal,Drugs Case,14-08-2013,Pending,37
+623,Criminal,Sessions Case,12-02-2026,Disposed,38
+624,Criminal,Fraud,02-04-2013,Pending,50
+625,Civil,Probate,16-06-2024,Pending,37
+626,Criminal,POCSO,07-10-2025,Disposed,45
+627,Criminal,Fraud,10-05-2026,Disposed,36
+628,Criminal,Fraud,09-06-2026,Disposed,28
+629,Civil,Matrimonial Case,18-08-2023,Pending,41
+630,Civil,Matrimonial Case,22-08-2024,Pending,39
+631,Criminal,POCSO,24-06-2016,Disposed,12
+632,Criminal,Motor Accident,09-12-2022,Pending,31
+633,Criminal,Theft,29-10-2017,Pending,50
+634,Criminal,Sessions Case,06-02-2022,Pending,31
+635,Criminal,Theft,16-04-2023,Pending,10
+636,Criminal,Assault,26-11-2023,Pending,45
+637,Civil,Reference,30-01-2026,Disposed,6
+638,Criminal,Revision,03-12-2023,Disposed,8
+639,Civil,Reference,27-02-2026,Disposed,4
+640,Criminal,Theft,26-04-2022,Disposed,50
+641,Criminal,Theft,18-01-2026,Pending,45
+642,Criminal,Fraud,14-10-2025,Disposed,44
+643,Criminal,Assault,22-04-2026,Disposed,32
+644,Criminal,Transfer Petition,23-05-2026,Pending,1
+645,Criminal,Sessions Case,18-02-2026,Pending,14
+646,Civil,Writ Petition,08-12-2025,Pending,1
+647,Criminal,Reference,26-11-2023,Pending,7
+648,Civil,Reference,19-12-2023,Pending,6
+649,Criminal,Contempt,30-05-2016,Pending,5
+650,Civil,Money Recovery,30-04-2025,Pending,50
+651,Criminal,Fraud,07-06-2026,Pending,45
+652,Criminal,Theft,09-10-2023,Pending,35
+653,Civil,Money Recovery,16-05-2025,Pending,21
+654,Criminal,Domestic Violence,06-10-2023,Pending,15
+655,Criminal,Motor Accident,06-02-2024,Pending,14
+656,Civil,Land Dispute,20-09-2024,Pending,16
+657,Civil,Property Dispute,03-04-2026,Pending,14
+658,Criminal,Drugs Case,28-12-2022,Disposed,32
+659,Civil,Case/Petition,13-01-2026,Pending,9
+660,Criminal,Motor Accident,08-05-2026,Pending,14
+661,Civil,Second Appeal,28-01-2026,Disposed,2
+662,Criminal,Fraud,22-11-2021,Pending,31
+663,Criminal,Cheque Bounce,23-11-2023,Pending,43
+664,Criminal,Drugs Case,19-02-2022,Pending,36
+665,Civil,Second Appeal,04-07-2022,Pending,5
+666,Criminal,Assault,12-08-2021,Pending,25
+667,Criminal,Theft,22-03-2017,Disposed,28
+668,Criminal,Sessions Case,23-04-2019,Pending,18
+669,Criminal,Domestic Violence,28-06-2025,Disposed,13
+670,Criminal,POCSO,18-02-2018,Pending,49
+671,Criminal,Theft,07-12-2025,Pending,13
+672,Criminal,Domestic Violence,05-03-2020,Pending,47
+673,Criminal,Theft,04-10-2014,Disposed,40
+674,Civil,Writ Petition,24-12-2025,Disposed,1
+675,Criminal,Reference,09-11-2018,Pending,7
+676,Criminal,Assault,26-09-2024,Pending,24
+677,Civil,First Appeal,06-05-2026,Pending,2
+678,Civil,Case/Petition,12-09-2018,Pending,6
+679,Criminal,Domestic Violence,29-03-2026,Pending,36
+680,Criminal,Drugs Case,15-10-2025,Disposed,23
+681,Civil,Money Recovery,02-12-2019,Disposed,45
+682,Criminal,Domestic Violence,11-04-2023,Disposed,44
+683,Criminal,Domestic Violence,24-07-2025,Disposed,40
+684,Civil,Probate,22-10-2023,Pending,44
+685,Criminal,Motor Accident,15-09-2018,Pending,33
+686,Civil,Matrimonial Case,27-03-2016,Pending,10
+687,Criminal,Motor Accident,10-10-2024,Pending,24
+688,Civil,Probate,02-08-2021,Disposed,20
+689,Criminal,Domestic Violence,19-01-2026,Disposed,28
+690,Civil,Reference,01-12-2021,Pending,9
+691,Civil,Case/Petition,27-01-2023,Pending,9
+692,Criminal,Drugs Case,07-02-2025,Pending,33
+693,Criminal,Cheque Bounce,05-07-2021,Disposed,50
+694,Civil,Second Appeal,14-10-2025,Pending,9
+695,Criminal,Sessions Case,04-05-2017,Pending,34
+696,Civil,Revision,16-11-2025,Pending,5
+697,Criminal,Drugs Case,10-02-2022,Disposed,29
+698,Criminal,Assault,06-08-2023,Pending,37
+699,Civil,Writ Petition,14-09-2025,Disposed,6
+700,Criminal,POCSO,12-09-2023,Pending,14
+701,Civil,Injunction Suit,04-09-2020,Pending,28
+702,Criminal,Assault,08-05-2025,Pending,15
+703,Criminal,Domestic Violence,01-06-2023,Pending,34
+704,Criminal,Theft,15-03-2024,Pending,29
+705,Civil,First Appeal,08-11-2021,Pending,3
+706,Criminal,POCSO,17-05-2021,Pending,43
+707,Civil,Injunction Suit,11-03-2018,Pending,20
+708,Criminal,POCSO,05-07-2022,Pending,46
+709,Criminal,Bail Application,25-01-2025,Pending,6
+710,Criminal,Drugs Case,30-11-2020,Pending,41
+711,Civil,Writ Petition,16-07-2018,Pending,5
+712,Civil,Revision,06-06-2025,Disposed,2
+713,Criminal,Cheque Bounce,06-01-2012,Pending,24
+714,Criminal,Motor Accident,06-03-2026,Disposed,27
+715,Civil,Money Recovery,25-10-2024,Pending,15
+716,Criminal,Motor Accident,22-11-2023,Pending,21
+717,Criminal,Motor Accident,21-09-2024,Pending,30
+718,Criminal,POCSO,16-06-2025,Pending,40
+719,Civil,Money Recovery,08-05-2017,Pending,15
+720,Criminal,Cheque Bounce,09-03-2026,Pending,16
+721,Civil,Second Appeal,11-03-2026,Pending,9
+722,Civil,Injunction Suit,31-03-2020,Pending,48
+723,Criminal,Drugs Case,28-09-2025,Disposed,14
+724,Criminal,Motor Accident,10-08-2024,Pending,41
+725,Criminal,Theft,20-03-2025,Pending,20
+726,Civil,Property Dispute,30-10-2017,Pending,20
+727,Criminal,Motor Accident,28-12-2020,Disposed,10
+728,Criminal,POCSO,05-10-2023,Pending,38
+729,Criminal,POCSO,12-09-2023,Pending,34
+730,Civil,Revision,23-08-2025,Pending,9
+731,Criminal,Contempt,26-09-2024,Disposed,5
+732,Criminal,Drugs Case,15-06-2026,Disposed,27
+733,Criminal,Domestic Violence,28-02-2026,Pending,40
+734,Criminal,POCSO,03-10-2018,Pending,29
+735,Civil,Letters Patent Appeal,14-08-2024,Pending,9
+736,Civil,Letters Patent Appeal,06-01-2012,Pending,9
+737,Criminal,POCSO,15-10-2024,Disposed,24
+738,Criminal,Fraud,08-01-2026,Pending,43
+739,Civil,Special Leave Petition,25-03-2013,Pending,1
+740,Criminal,Drugs Case,11-07-2019,Pending,31
+741,Criminal,Theft,02-04-2018,Pending,38
+742,Criminal,Cheque Bounce,31-08-2015,Pending,10
+743,Civil,Case/Petition,22-12-2025,Pending,6
+744,Civil,Probate,16-03-2025,Pending,43
+745,Criminal,Fraud,23-02-2026,Pending,10
+746,Civil,First Appeal,12-01-2015,Disposed,8
+747,Criminal,Domestic Violence,28-04-2015,Pending,31
+748,Criminal,POCSO,13-10-2019,Pending,49
+749,Civil,Injunction Suit,27-09-2022,Disposed,28
+750,Criminal,Fraud,16-08-2025,Pending,40
+751,Civil,Property Dispute,24-02-2022,Disposed,29
+752,Criminal,Assault,11-09-2025,Disposed,34
+753,Criminal,Assault,21-01-2021,Disposed,23
+754,Criminal,Bail Application,16-12-2018,Pending,7
+755,Criminal,Fraud,19-08-2024,Pending,33
+756,Criminal,Cheque Bounce,27-10-2025,Disposed,44
+757,Civil,Matrimonial Case,24-11-2025,Pending,13
+758,Criminal,Theft,04-06-2026,Disposed,37
+759,Criminal,Theft,03-06-2026,Pending,19
+760,Criminal,Sessions Case,10-09-2021,Disposed,12
+761,Civil,Writ Petition,21-05-2026,Disposed,1
+762,Criminal,Transfer Petition,19-11-2025,Pending,1
+763,Criminal,Motor Accident,11-06-2023,Pending,17
+764,Criminal,Domestic Violence,24-07-2020,Pending,29
+765,Civil,Land Dispute,19-01-2018,Disposed,27
+766,Criminal,POCSO,18-12-2021,Pending,20
+767,Criminal,Reference,02-06-2026,Pending,8
+768,Civil,First Appeal,29-10-2024,Pending,9
+769,Criminal,Contempt,22-02-2023,Pending,9
+770,Criminal,Cheque Bounce,01-12-2024,Pending,14
+771,Civil,Land Dispute,28-09-2024,Pending,26
+772,Criminal,POCSO,16-04-2024,Disposed,39
+773,Civil,Property Dispute,12-04-2020,Pending,20
+774,Civil,Reference,14-12-2020,Pending,8
+775,Criminal,Sessions Case,08-04-2025,Pending,33
+776,Civil,Money Recovery,03-10-2024,Pending,47
+777,Criminal,Theft,17-02-2014,Pending,16
+778,Criminal,Contempt,09-09-2025,Disposed,3
+779,Civil,Money Recovery,02-03-2023,Pending,12
+780,Criminal,Theft,20-08-2022,Disposed,15
+781,Criminal,Cheque Bounce,22-10-2025,Pending,25
+782,Criminal,'Special Leave Petition (Crl,,,
+783,Civil,Reference,06-04-2026,Disposed,4
+784,Civil,Money Recovery,07-04-2018,Pending,42
+785,Criminal,Theft,19-03-2024,Pending,28
+786,Criminal,POCSO,20-02-2026,Disposed,31
+787,Civil,Property Dispute,23-02-2025,Pending,19
+788,Criminal,Drugs Case,18-09-2025,Pending,41
+789,Criminal,Drugs Case,06-01-2024,Disposed,18
+790,Civil,Case/Petition,17-02-2026,Pending,3
+791,Criminal,'Special Leave Petition (Crl,,,
+792,Criminal,Domestic Violence,04-12-2017,Pending,37
+793,Criminal,POCSO,09-01-2025,Disposed,38
+794,Criminal,Contempt,29-05-2026,Disposed,6
+795,Criminal,Fraud,11-04-2025,Disposed,15
+796,Criminal,Motor Accident,28-02-2026,Pending,41
+797,Civil,Money Recovery,29-06-2012,Pending,39
+798,Criminal,Bail Application,04-03-2018,Pending,3
+799,Civil,Probate,28-10-2021,Pending,45
+800,Civil,Writ Petition,25-04-2017,Pending,2
+801,Civil,Writ Petition,06-03-2026,Disposed,4
+802,Civil,Matrimonial Case,23-05-2026,Pending,22
+803,Civil,Special Leave Petition,31-01-2024,Disposed,1
+804,Criminal,Motor Accident,29-01-2025,Pending,30
+805,Civil,Money Recovery,06-05-2024,Pending,33
+806,Civil,Land Dispute,17-07-2023,Pending,25
+807,Criminal,Drugs Case,01-12-2017,Pending,15
+808,Civil,Curative Petition,16-07-2025,Disposed,1
+809,Criminal,Domestic Violence,03-04-2016,Pending,42
+810,Criminal,POCSO,27-10-2015,Pending,38
+811,Criminal,Motor Accident,17-08-2023,Disposed,34
+812,Civil,Letters Patent Appeal,23-10-2019,Pending,2
+813,Criminal,Sessions Case,31-05-2021,Pending,32
+814,Criminal,Assault,16-01-2017,Pending,33
+815,Criminal,Domestic Violence,27-02-2023,Pending,31
+816,Criminal,Sessions Case,02-06-2026,Pending,39
+817,Criminal,Drugs Case,06-03-2018,Pending,14
+818,Civil,Probate,12-10-2019,Pending,36
+819,Criminal,Cheque Bounce,13-01-2016,Pending,15
+820,Criminal,Cheque Bounce,29-11-2025,Pending,15
+821,Criminal,Contempt,13-02-2025,Pending,7
+822,Civil,Second Appeal,23-04-2012,Pending,5
+823,Civil,Probate,09-07-2021,Pending,12
+824,Criminal,Drugs Case,03-08-2023,Pending,19
+825,Civil,Case/Petition,27-02-2024,Disposed,2
+826,Criminal,Fraud,01-11-2023,Disposed,38
+827,Civil,Review Petition,22-12-2021,Pending,1
+828,Criminal,Fraud,06-10-2023,Pending,45
+829,Civil,Land Dispute,17-03-2026,Pending,37
+830,Criminal,Assault,28-04-2026,Pending,43
+831,Criminal,Bail Application,12-01-2024,Pending,6
+832,Criminal,Cheque Bounce,11-08-2025,Pending,28
+833,Civil,Injunction Suit,05-03-2026,Pending,49
+834,Criminal,Theft,14-04-2017,Pending,39
+835,Civil,Writ Petition,06-08-2024,Pending,1
+836,Criminal,Sessions Case,02-10-2023,Disposed,33
+837,Civil,Injunction Suit,07-11-2021,Disposed,10
+838,Civil,Land Dispute,18-04-2026,Disposed,30
+839,Criminal,Fraud,11-10-2017,Pending,48
+840,Criminal,Assault,13-09-2025,Disposed,45
+841,Criminal,Cheque Bounce,23-09-2022,Pending,46
+842,Criminal,Motor Accident,03-02-2025,Pending,45
+843,Criminal,Assault,13-04-2026,Pending,42
+844,Civil,Land Dispute,16-02-2025,Pending,13
+845,Criminal,Fraud,20-06-2025,Pending,42
+846,Criminal,Contempt,20-08-2022,Pending,2
+847,Criminal,Drugs Case,16-01-2025,Disposed,41
+848,Criminal,Sessions Case,07-01-2026,Disposed,31
+849,Criminal,Contempt,08-03-2025,Pending,2
+850,Criminal,Reference,22-09-2025,Pending,2
+851,Criminal,Theft,03-07-2021,Pending,15
+852,Criminal,Transfer Petition,17-07-2025,Disposed,1
+853,Criminal,Drugs Case,30-01-2015,Pending,31
+854,Civil,Writ Petition,29-05-2023,Pending,6
+855,Civil,Property Dispute,06-12-2013,Pending,30
+856,Civil,Probate,13-12-2023,Pending,39
+857,Criminal,Fraud,14-04-2023,Pending,13
+858,Criminal,Cheque Bounce,05-07-2024,Pending,41
+859,Criminal,Domestic Violence,01-01-2022,Disposed,46
+860,Criminal,Drugs Case,10-10-2025,Disposed,35
+861,Criminal,Bail Application,02-05-2025,Disposed,9
+862,Criminal,Theft,06-01-2024,Pending,45
+863,Criminal,Sessions Case,22-06-2026,Pending,26
+864,Criminal,Transfer Petition,29-04-2019,Pending,1
+865,Civil,Injunction Suit,03-08-2022,Pending,14
+866,Criminal,Cheque Bounce,10-09-2025,Disposed,39
+867,Criminal,Theft,03-11-2023,Disposed,30
+868,Civil,Probate,04-03-2026,Pending,17
+869,Criminal,Criminal Appeal,07-02-2020,Pending,4
+870,Criminal,Domestic Violence,24-09-2021,Pending,15
+871,Criminal,Assault,05-06-2026,Pending,20
+872,Criminal,Assault,12-11-2022,Pending,21
+873,Criminal,Drugs Case,05-07-2020,Pending,11
+874,Criminal,Drugs Case,03-08-2022,Pending,27
+875,Criminal,Criminal Appeal,19-12-2024,Pending,3
+876,Criminal,Contempt,04-01-2025,Pending,9
+877,Criminal,Domestic Violence,15-05-2026,Disposed,39
+878,Criminal,Theft,06-04-2017,Pending,48
+879,Civil,Injunction Suit,22-06-2026,Pending,18
+880,Civil,Money Recovery,12-05-2025,Pending,22
+881,Criminal,Motor Accident,30-01-2023,Pending,50
+882,Criminal,Assault,18-05-2013,Pending,28
+883,Civil,Writ Petition,30-11-2018,Pending,6
+884,Civil,First Appeal,25-02-2025,Pending,6
+885,Criminal,Theft,11-01-2026,Disposed,45
+886,Criminal,Sessions Case,23-11-2013,Pending,40
+887,Civil,Land Dispute,11-05-2017,Pending,49
+888,Criminal,Sessions Case,30-05-2015,Pending,32
+889,Criminal,Motor Accident,22-06-2020,Pending,35
+890,Civil,Case/Petition,03-06-2026,Disposed,3
+891,Criminal,Theft,04-03-2026,Pending,49
+892,Criminal,Sessions Case,28-01-2023,Disposed,15
+893,Civil,Money Recovery,30-06-2018,Pending,46
+894,Criminal,Theft,19-01-2019,Pending,16
+895,Civil,Second Appeal,04-09-2020,Pending,3
+896,Criminal,Drugs Case,22-11-2011,Pending,21
+897,Criminal,Theft,11-01-2026,Disposed,22
+898,Civil,First Appeal,30-04-2022,Pending,2
+899,Criminal,Fraud,28-08-2024,Disposed,36
+900,Civil,Writ Petition,23-06-2014,Pending,4
+901,Civil,Matrimonial Case,06-07-2025,Pending,18
+902,Criminal,Motor Accident,20-03-2022,Pending,12
+903,Criminal,Assault,08-07-2023,Pending,25
+904,Criminal,Assault,15-02-2022,Disposed,31
+905,Criminal,Domestic Violence,24-10-2021,Pending,35
+906,Criminal,Bail Application,06-08-2022,Pending,5
+907,Criminal,POCSO,03-03-2025,Pending,12
+908,Criminal,Theft,10-06-2025,Pending,39
+909,Criminal,Domestic Violence,20-03-2026,Disposed,18
+910,Civil,First Appeal,05-02-2020,Pending,6
+911,Civil,Land Dispute,06-03-2015,Pending,38
+912,Criminal,Domestic Violence,01-12-2023,Pending,13
+913,Criminal,Motor Accident,24-04-2024,Pending,20
+914,Civil,Case/Petition,19-10-2012,Pending,7
+915,Criminal,Fraud,06-03-2026,Disposed,50
+916,Civil,Case/Petition,11-04-2026,Pending,9
+917,Civil,Reference,02-03-2025,Pending,2
+918,Criminal,Motor Accident,27-04-2024,Pending,25
+919,Civil,Matrimonial Case,30-06-2021,Pending,16
+920,Criminal,Domestic Violence,09-06-2015,Pending,40
+921,Criminal,Drugs Case,09-12-2025,Pending,45
+922,Civil,Revision,20-04-2022,Pending,7
+923,Criminal,Bail Application,14-03-2024,Disposed,4
+924,Criminal,POCSO,11-11-2025,Disposed,10
+925,Criminal,Assault,11-04-2013,Pending,30
+926,Civil,Land Dispute,15-08-2025,Pending,18
+927,Criminal,Assault,10-03-2019,Disposed,13
+928,Criminal,Fraud,10-07-2022,Pending,10
+929,Criminal,Theft,25-06-2025,Pending,18
+930,Criminal,Theft,17-06-2026,Disposed,14
+931,Civil,Injunction Suit,28-07-2019,Pending,38
+932,Criminal,Criminal Appeal,11-02-2026,Disposed,7
+933,Civil,Second Appeal,02-06-2025,Pending,3
+934,Civil,Revision,05-10-2019,Pending,4
+935,Criminal,Domestic Violence,02-04-2025,Pending,41
+936,Civil,Property Dispute,01-03-2020,Pending,50
+937,Civil,Money Recovery,07-02-2022,Pending,50
+938,Criminal,Criminal Appeal,21-09-2015,Pending,6
+939,Criminal,Assault,24-03-2016,Pending,14
+940,Criminal,Motor Accident,09-11-2025,Pending,18
+941,Criminal,Drugs Case,30-11-2011,Pending,33
+942,Civil,Writ Petition,02-01-2026,Pending,1
+943,Criminal,Theft,26-11-2014,Pending,47
+944,Criminal,Motor Accident,04-08-2022,Disposed,12
+945,Criminal,Criminal Appeal,04-11-2025,Pending,6
+946,Criminal,POCSO,03-02-2013,Pending,40
+947,Civil,Injunction Suit,25-08-2024,Disposed,10
+948,Criminal,Theft,03-02-2022,Disposed,14
+949,Criminal,POCSO,08-02-2026,Pending,40
+950,Civil,Special Leave Petition,22-12-2017,Pending,1
+951,Civil,Property Dispute,13-11-2025,Pending,44
+952,Civil,Money Recovery,13-07-2025,Disposed,18
+953,Criminal,Cheque Bounce,30-06-2021,Pending,46
+954,Criminal,Domestic Violence,06-02-2026,Pending,46
+955,Civil,Property Dispute,13-11-2021,Disposed,16
+956,Civil,Writ Petition,08-08-2025,Pending,9
+957,Civil,Probate,03-10-2025,Disposed,13
+958,Criminal,Cheque Bounce,05-09-2021,Pending,36
+959,Civil,Case/Petition,05-06-2024,Pending,5
+960,Criminal,Theft,09-02-2024,Pending,47
+961,Criminal,Theft,07-05-2024,Disposed,41
+962,Criminal,Sessions Case,05-10-2025,Pending,36
+963,Criminal,POCSO,23-02-2024,Pending,40
+964,Criminal,Motor Accident,14-02-2026,Pending,47
+965,Criminal,POCSO,23-10-2025,Disposed,22
+966,Criminal,Theft,11-09-2025,Pending,46
+967,Criminal,POCSO,05-12-2024,Disposed,30
+968,Criminal,Theft,13-10-2014,Pending,38
+969,Criminal,Sessions Case,10-07-2022,Pending,48
+970,Criminal,Reference,08-06-2026,Disposed,5
+971,Civil,Money Recovery,09-10-2025,Disposed,35
+972,Criminal,Contempt,11-08-2024,Pending,4
+973,Civil,Matrimonial Case,16-01-2026,Disposed,18
+974,Criminal,Sessions Case,14-01-2025,Pending,15
+975,Civil,Matrimonial Case,01-07-2022,Disposed,47
+976,Criminal,Drugs Case,18-01-2026,Pending,18
+977,Civil,Special Leave Petition,23-03-2026,Pending,1
+978,Criminal,POCSO,02-03-2015,Pending,14
+979,Civil,Land Dispute,26-06-2023,Pending,41
+980,Criminal,Sessions Case,06-12-2025,Pending,29
+981,Civil,Writ Petition,23-01-2026,Pending,9
+982,Civil,Probate,26-05-2026,Pending,11
+983,Civil,Matrimonial Case,29-04-2023,Disposed,20
+984,Criminal,Theft,06-03-2026,Disposed,14
+985,Civil,Land Dispute,02-07-2016,Pending,43
+986,Criminal,Fraud,04-07-2012,Disposed,26
+987,Criminal,Theft,26-06-2024,Pending,16
+988,Civil,Injunction Suit,08-08-2018,Pending,46
+989,Criminal,Drugs Case,22-09-2018,Pending,14
+990,Civil,Letters Patent Appeal,03-06-2024,Pending,4
+991,Criminal,Theft,06-04-2026,Pending,27
+992,Criminal,Sessions Case,12-05-2025,Pending,37
+993,Criminal,Theft,05-06-2018,Pending,15
+994,Civil,Land Dispute,31-08-2025,Disposed,17
+995,Civil,Reference,16-05-2025,Pending,5
+996,Criminal,Cheque Bounce,30-04-2025,Pending,43
+997,Civil,First Appeal,20-09-2016,Pending,9
+998,Criminal,Theft,15-03-2024,Pending,38
+999,Civil,Money Recovery,06-11-2025,Disposed,26
+1000,Criminal,Fraud,08-02-2021,Pending,40
