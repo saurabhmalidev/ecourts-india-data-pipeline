@@ -124,9 +124,9 @@ Replicates the NJDG District Courts tab at `njdg.ecourts.gov.in/njdg_v3`.
 - **State Slicer**: Filters all visuals simultaneously via Many-to-Many Both-direction relationships
 - **ⓘ Tooltips** on each visual for context
 
-![KPI Cards](powerbi/screenshots/district_kpi_cards.png)
-![Age Chart](powerbi/screenshots/district_age_chart.png)
-![Delhi Filtered](powerbi/screenshots/district_delhi_filtered.png)
+![KPI Cards](powerbi/Snapshots/district_kpi_cards.png)
+![Age Chart](powerbi/Snapshots/district_age_chart.png)
+![Delhi Filtered](powerbi/Snapshots/district_delhi_filtered.png)
 
 ---
 
