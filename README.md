@@ -49,7 +49,7 @@ The pipeline ingests judicial case data from a PostgreSQL source, processes it t
 
 ## Dataset
 
-Seed data modelled after real NJDG distributions — not random, not uniform.
+Raw data modeled after real NJDG distributions — for both cases and courts table
 
 **courts** — 50 rows (1 Supreme, 8 High Courts, 41 District Courts) with self-referencing FK encoding the 3-level Indian judiciary hierarchy.
 
